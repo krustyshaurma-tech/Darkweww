@@ -1,0 +1,20 @@
+Виртуальное окружение
+
+venv/ .env/ *.pyc pycache/
+
+Логи
+
+*.log
+
+Настройки IDE
+
+.vscode/ .idea/
+
+Кэш
+
+*.cache *.pytest_cache/
+
+Секретные данные
+
+.env
+
